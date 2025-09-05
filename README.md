@@ -34,4 +34,4 @@ The first player to reach **100 points** wins the game.
 ## 📂 Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/pig-dice-game.git
+   git clone https://github.com/Jacobbaffour20/dice-roll-game.git
